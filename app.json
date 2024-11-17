@@ -9,7 +9,7 @@
   "stack": "container",
   "env": { 
       "SESSION_ID": {
-      "description": "your session id",
+      "description": "Ethix-MD&CtreZXwJ",
       "required": true,
       "value": ""
     },
